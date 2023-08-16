@@ -1,0 +1,14 @@
+C:\Users\pc\source\repos\TA19\FlujoDatos\FlujoDatos\obj\Debug\net6.0\FlujoDatos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pc\source\repos\TA19\FlujoDatos\FlujoDatos\obj\Debug\net6.0\FlujoDatos.AssemblyInfoInputs.cache
+C:\Users\pc\source\repos\TA19\FlujoDatos\FlujoDatos\obj\Debug\net6.0\FlujoDatos.AssemblyInfo.cs
+C:\Users\pc\source\repos\TA19\FlujoDatos\FlujoDatos\obj\Debug\net6.0\FlujoDatos.csproj.CoreCompileInputs.cache
+C:\Users\pc\source\repos\TA19\FlujoDatos\FlujoDatos\bin\Debug\net6.0\FlujoDatos.exe
+C:\Users\pc\source\repos\TA19\FlujoDatos\FlujoDatos\bin\Debug\net6.0\FlujoDatos.deps.json
+C:\Users\pc\source\repos\TA19\FlujoDatos\FlujoDatos\bin\Debug\net6.0\FlujoDatos.runtimeconfig.json
+C:\Users\pc\source\repos\TA19\FlujoDatos\FlujoDatos\bin\Debug\net6.0\FlujoDatos.dll
+C:\Users\pc\source\repos\TA19\FlujoDatos\FlujoDatos\bin\Debug\net6.0\FlujoDatos.pdb
+C:\Users\pc\source\repos\TA19\FlujoDatos\FlujoDatos\obj\Debug\net6.0\FlujoDatos.dll
+C:\Users\pc\source\repos\TA19\FlujoDatos\FlujoDatos\obj\Debug\net6.0\refint\FlujoDatos.dll
+C:\Users\pc\source\repos\TA19\FlujoDatos\FlujoDatos\obj\Debug\net6.0\FlujoDatos.pdb
+C:\Users\pc\source\repos\TA19\FlujoDatos\FlujoDatos\obj\Debug\net6.0\FlujoDatos.genruntimeconfig.cache
+C:\Users\pc\source\repos\TA19\FlujoDatos\FlujoDatos\obj\Debug\net6.0\ref\FlujoDatos.dll
