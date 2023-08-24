@@ -1,0 +1,14 @@
+C:\Users\pc\source\repos\Herencia\M1\M1\bin\Debug\net6.0\M1.exe
+C:\Users\pc\source\repos\Herencia\M1\M1\bin\Debug\net6.0\M1.deps.json
+C:\Users\pc\source\repos\Herencia\M1\M1\bin\Debug\net6.0\M1.runtimeconfig.json
+C:\Users\pc\source\repos\Herencia\M1\M1\bin\Debug\net6.0\M1.dll
+C:\Users\pc\source\repos\Herencia\M1\M1\bin\Debug\net6.0\M1.pdb
+C:\Users\pc\source\repos\Herencia\M1\M1\obj\Debug\net6.0\M1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pc\source\repos\Herencia\M1\M1\obj\Debug\net6.0\M1.AssemblyInfoInputs.cache
+C:\Users\pc\source\repos\Herencia\M1\M1\obj\Debug\net6.0\M1.AssemblyInfo.cs
+C:\Users\pc\source\repos\Herencia\M1\M1\obj\Debug\net6.0\M1.csproj.CoreCompileInputs.cache
+C:\Users\pc\source\repos\Herencia\M1\M1\obj\Debug\net6.0\M1.dll
+C:\Users\pc\source\repos\Herencia\M1\M1\obj\Debug\net6.0\refint\M1.dll
+C:\Users\pc\source\repos\Herencia\M1\M1\obj\Debug\net6.0\M1.pdb
+C:\Users\pc\source\repos\Herencia\M1\M1\obj\Debug\net6.0\M1.genruntimeconfig.cache
+C:\Users\pc\source\repos\Herencia\M1\M1\obj\Debug\net6.0\ref\M1.dll
