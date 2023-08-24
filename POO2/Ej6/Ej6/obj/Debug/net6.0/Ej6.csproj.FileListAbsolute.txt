@@ -1,0 +1,14 @@
+C:\Users\pc\source\repos\POO-2\Ej6\Ej6\bin\Debug\net6.0\Ej6.exe
+C:\Users\pc\source\repos\POO-2\Ej6\Ej6\bin\Debug\net6.0\Ej6.deps.json
+C:\Users\pc\source\repos\POO-2\Ej6\Ej6\bin\Debug\net6.0\Ej6.runtimeconfig.json
+C:\Users\pc\source\repos\POO-2\Ej6\Ej6\bin\Debug\net6.0\Ej6.dll
+C:\Users\pc\source\repos\POO-2\Ej6\Ej6\bin\Debug\net6.0\Ej6.pdb
+C:\Users\pc\source\repos\POO-2\Ej6\Ej6\obj\Debug\net6.0\Ej6.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pc\source\repos\POO-2\Ej6\Ej6\obj\Debug\net6.0\Ej6.AssemblyInfoInputs.cache
+C:\Users\pc\source\repos\POO-2\Ej6\Ej6\obj\Debug\net6.0\Ej6.AssemblyInfo.cs
+C:\Users\pc\source\repos\POO-2\Ej6\Ej6\obj\Debug\net6.0\Ej6.csproj.CoreCompileInputs.cache
+C:\Users\pc\source\repos\POO-2\Ej6\Ej6\obj\Debug\net6.0\Ej6.dll
+C:\Users\pc\source\repos\POO-2\Ej6\Ej6\obj\Debug\net6.0\refint\Ej6.dll
+C:\Users\pc\source\repos\POO-2\Ej6\Ej6\obj\Debug\net6.0\Ej6.pdb
+C:\Users\pc\source\repos\POO-2\Ej6\Ej6\obj\Debug\net6.0\Ej6.genruntimeconfig.cache
+C:\Users\pc\source\repos\POO-2\Ej6\Ej6\obj\Debug\net6.0\ref\Ej6.dll
